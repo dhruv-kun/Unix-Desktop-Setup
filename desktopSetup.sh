@@ -36,7 +36,8 @@ sudo apt-get install -y vim \
     build-essential \
     caffeine \
     mysql-server \
-    gparted
+    gparted \
+    htop
 
 
 # #####################################################################################
